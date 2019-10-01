@@ -9,3 +9,9 @@ Tahapan Commits di akun
 1. klik file yang telah di fork.
 2. klik tombol hijau "Add a Readme" di kanan bawah projek.
 3. Jika sudah selesai, klik tombol hijau "Commit new file"
+
+
+Perubahan yang dilakukan di latihan
+
+1. Mengubah tampilan judul di bagian index pada baris 10-12
+2. 
