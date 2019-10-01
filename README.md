@@ -14,4 +14,4 @@ Tahapan Commits di akun
 Perubahan yang dilakukan di latihan
 
 1. Mengubah tampilan judul di bagian index pada baris 10-12
-2. 
+2. CSS file background diganti menjadi warna magenta
